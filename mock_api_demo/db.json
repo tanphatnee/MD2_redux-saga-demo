@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "email": "phat@gmail.com",
+      "password": "$2a$10$FjGfHASVyRp7lAXSEn5jGu2Y7UCW1nvrSYepCfJQ0kg0SOWaJNHTu",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 1
+    },
+    {
+      "email": "phat1@gmail.com",
+      "password": "$2a$10$dohQZhYa9/ggH797HTWom.DUHvz9RJRX0GxgxFzvQHMfYNOxfnSbe",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 2
+    },
+    {
+      "email": "phat2@gmail.com",
+      "password": "$2a$10$mwrCS2vU9xlvMRHteyS55ef96dyh6ZjplStTTBEEnt7jX9jo8I34u",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 3
+    },
+    {
+      "email": "phat3@gmail.com",
+      "password": "$2a$10$.eSYVQNyXV9EK1o8MPGL/uXJo.I2E2W/fzK87XutK9Sy5EFTS5gam",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 4
+    },
+    {
+      "email": "phat4@gmail.com",
+      "password": "$2a$10$2mQryVmOZgikrVrsCmPk.uQpHJ2A0FS6TB/I7Yzk0lbMmqfV4qr4G",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 5
+    },
+    {
+      "email": "phat5@gmail.com",
+      "password": "$2a$10$D6RToW2nTGyhX9flOCOwye.HQWmhjJO4nBLl7okB/OlgK9k2s765S",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 6
+    },
+    {
+      "email": "nvtphat2k4@gmail.com",
+      "password": "$2a$10$/rUAyidzIi12GERB.RJyiOmO4B7zlGmA.G3CXMwiV1lCO0p08xMCu",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 7
+    },
+    {
+      "email": "phat7@gmail.com",
+      "password": "$2a$10$LGXFehDt.8kTNxLdRDyi7eHjXbwe1gTzbxWKt.VyDYELTfq7xNQI.",
+      "fullName": "Nguyễn Văn Tấn Phát",
+      "id": 8
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "name": "Nguyen Van A",
+      "age": 18,
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "age": 30,
+      "gender": "male"
+    },
+    {
+      "id": 3,
+      "name": "Nguyen Van C",
+      "age": 20,
+      "gender": "male"
+    }
+  ]
+}
